@@ -164,16 +164,25 @@ Additional Setup Details
         python3 main.py
 
 ## Screenshots
-Include screenshots of the project in action to give a visual representation of its functionality. You can also add videos of running project to YouTube and give a reference to it here. 
+![image](https://github.com/user-attachments/assets/8e162eab-9a56-4048-8f6c-191700be4a43)
+
+
+
+
+
+
+For a video demonstration, visit [here](
+https://www.youtube.com/watch?v=3q8H3G9lvu0
+).
 
 ## Acknowledgements
 Special thanks to our supervisor Özlem Tuğfe Demir and the TOBB ETÜ Electrical and Electronics Engineering Department for their guidance.
 
 Contributors:
 
-[Selin Erdem](https://github.com/selinerdem2)Selin Erdem
+[Selin Erdem](https://github.com/selinerdem2)
 
-[Contributor 1](https://github.com/user1)Muhammed Çağrı Öz
+[Muhammed Çağrı Öz](https://github.com/muhammedcagrioz)
 
 [Contributor 1](https://github.com/user1)Eray Naldöken
 
