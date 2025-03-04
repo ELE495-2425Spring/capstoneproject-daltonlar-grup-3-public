@@ -186,7 +186,7 @@ Contributors:
 
 [Contributor 1](https://github.com/user1)Eray Naldöken
 
-[Contributor 1](https://github.com/user1)Lütfi Ertuğrul Bekmen
+[Lütfi Ertuğrul Bekmen](https://github.com/ErtBekmen)
 
 Resources and tools:
 
