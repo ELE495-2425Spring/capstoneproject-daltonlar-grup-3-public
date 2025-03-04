@@ -164,10 +164,14 @@ Additional Setup Details
         python3 main.py
 
 ## Screenshots
+Autonom Car With Yagi Antenna
+
 ![image](https://github.com/user-attachments/assets/8e162eab-9a56-4048-8f6c-191700be4a43)
 
+Interface
 
 
+![image](https://github.com/user-attachments/assets/d5a48a95-39f7-45e9-b744-ce6c3f51c1f1)
 
 
 
