@@ -184,7 +184,7 @@ Contributors:
 
 [Muhammed Çağrı Öz](https://github.com/muhammedcagrioz)
 
-[Contributor 1](https://github.com/user1)Eray Naldöken
+[Eray Naldöken](https://github.com/enaldöken)
 
 [Lütfi Ertuğrul Bekmen](https://github.com/ErtBekmen)
 
