@@ -9,7 +9,7 @@
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
-The aim of this project is to develop an autonomous RF transmitter localization system using a Software-Defined Radio (SDR) platform. The system utilizes a Raspberry Pi, RTL-SDR receiver, and a directional antenna to detect and navigate towards a continuous narrow-band RF signal source.
+Radio Frequency (RF) signal localization represents a critical technological challenge with applications spanning emergency response, military operations, and wireless communication research. The aim of this project is to develop an autonomous RF transmitter localization system using a Software-Defined Radio (SDR) platform. The system utilizes a Raspberry Pi, RTL-SDR receiver, and a directional antenna to detect and navigate towards a continuous narrow-band RF signal source. Our capstone project, developed for the ELE495 course, introduces an innovative, low-cost solution for autonomous RF transmitter detection using Software-Defined Radio (SDR) technology.
 
 ## Features
 
@@ -171,7 +171,7 @@ Special thanks to our supervisor Özlem Tuğfe Demir and the TOBB ETÜ Electrica
 
 Contributors:
 
-[Contributor 1](https://github.com/user1)Selin Erdem
+[Selin Erdem](https://github.com/selinerdem2)Selin Erdem
 
 [Contributor 1](https://github.com/user1)Muhammed Çağrı Öz
 
@@ -181,9 +181,8 @@ Contributors:
 
 Resources and tools:
 
-[Resource or Tool](https://www.nvidia.com)RTL-SDR Blog
+[RTL-SDR Blog](https://www.rtl-sdr.com/v4/)
 
-[Resource or Tool](https://www.nvidia.com)IEEE Xplore
+[IEEE Xplore](https://ieeexplore.ieee.org)
 
-[Contributor 1](https://github.com/user1)
-[Resource or Tool](https://www.nvidia.com)
+
