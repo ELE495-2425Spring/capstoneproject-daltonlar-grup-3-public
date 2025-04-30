@@ -166,12 +166,12 @@ Additional Setup Details
 ## Screenshots
 Autonom Car With Yagi Antenna
 
-![image](https://github.com/user-attachments/assets/8e162eab-9a56-4048-8f6c-191700be4a43)
+![image](grup-3-car.jpeg)
 
 Interface
 
 
-![image](https://github.com/user-attachments/assets/d5a48a95-39f7-45e9-b744-ce6c3f51c1f1)
+![image](grup-3-app.png)
 
 
 
